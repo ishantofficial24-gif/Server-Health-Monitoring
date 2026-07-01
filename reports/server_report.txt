@@ -1,0 +1,17 @@
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 11:24:09 PM IST 2026
+Uptime: 1:17,
+---------------------
+CPU usage : 3.2%
+RAM usage : 17.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+Server status:Healthy
+

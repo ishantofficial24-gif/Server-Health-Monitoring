@@ -1,0 +1,812 @@
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 03:15:43 PM IST 2026
+Uptime: 1:39,
+---------------------
+CPU Usage: 3.2 %
+RAM usage : 18%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 03:16:36 PM IST 2026
+Uptime: 1:40,
+---------------------
+CPU Usage: 4.5 %
+RAM usage : 18%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 04:56:57 PM IST 2026
+Uptime: 3:21,
+---------------------
+CPU Usage: 3.4 %
+RAM usage : 18%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 05:34:42 PM IST 2026
+Uptime: 3:58,
+---------------------
+CPU Usage: 4.6 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 18.6667%
+Warning : RAM has crossed its limit
+Disk usage : 13%
+Warning : Storage has reached its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+CPU_LIMIT
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 05:39:57 PM IST 2026
+Uptime: 4:04,
+---------------------
+CPU Usage: 4 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 20%
+Warning : RAM has crossed its limit
+Disk usage : 13%
+Warning : Storage has reached its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+CPU_LIMIT
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 05:40:14 PM IST 2026
+Uptime: 4:04,
+---------------------
+CPU Usage: 4.9 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 20%
+Warning : RAM has crossed its limit
+Disk usage : 13%
+Warning : Storage has reached its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 05:41:22 PM IST 2026
+Uptime: 4:05,
+---------------------
+CPU Usage: 0.1 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 19.3333%
+Warning : RAM has crossed its limit
+Disk usage : 13%
+Warning : Storage has reached its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+80
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 05:41:46 PM IST 2026
+Uptime: 4:05,
+---------------------
+CPU Usage: 4 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 19.3333%
+Warning : RAM has crossed its limit
+Disk usage : 13%
+Warning : Storage has reached its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sat Jun 27 05:42:36 PM IST 2026
+Uptime: 4:06,
+---------------------
+CPU Usage: 0.1 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 19.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:47:45 PM IST 2026
+Uptime: 1:38,
+---------------------
+CPU Usage: 1.6 %
+RAM usage : 19.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:48:26 PM IST 2026
+Uptime: 1:38,
+---------------------
+CPU Usage: 4.6 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:49:06 PM IST 2026
+Uptime: 1:39,
+---------------------
+CPU Usage: 2.4 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:52:32 PM IST 2026
+Uptime: 1:43,
+---------------------
+CPU Usage: 5.2 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:54:15 PM IST 2026
+Uptime: 1:44,
+---------------------
+CPU Usage: 5.2 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:55:37 PM IST 2026
+Uptime: 1:46,
+---------------------
+CPU Usage: 3.7 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 10:59:35 PM IST 2026
+Uptime: 1:50,
+---------------------
+CPU Usage: 6.8 %
+RAM usage : 20.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:00:47 PM IST 2026
+Uptime: 1:51,
+---------------------
+CPU Usage: 3 %
+RAM usage : 19.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:02:08 PM IST 2026
+Uptime: 1:52,
+---------------------
+CPU Usage: 3 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:03:39 PM IST 2026
+Uptime: 1:54,
+---------------------
+CPU Usage: 4.6 %
+RAM usage : 20%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+80
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:08:43 PM IST 2026
+Uptime: 1:59,
+---------------------
+CPU Usage: 3.2 %
+RAM usage : 19.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+80
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:09:19 PM IST 2026
+Uptime: 1:59,
+---------------------
+CPU Usage: 4.7 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 20.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+0
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:11:16 PM IST 2026
+Uptime: 2:01,
+---------------------
+CPU Usage: 3.2 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 20.6667%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:15:09 PM IST 2026
+Uptime: 2:05,
+---------------------
+CPU Usage: 3.2 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 20.6667 %
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:15:56 PM IST 2026
+Uptime: 2:06,
+---------------------
+CPU Usage: 3.2 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 21.3333 %
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:18:24 PM IST 2026
+Uptime: 2:08,
+---------------------
+CPU Usage: 0.1 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 21.3333 %
+Warning : RAM has crossed its limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:18:54 PM IST 2026
+Uptime: 2:09,
+---------------------
+CPU Usage: 4.7 %
+Warning : CPU has crossed its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:21:14 PM IST 2026
+Uptime: 2:11,
+---------------------
+CPU Usage: 3.2 %
+Warning : CPU has crossed its threshold limit
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:23:14 PM IST 2026
+Uptime: 2:13,
+---------------------
+CPU Usage: 3.3 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 21.3333 %
+Warning : RAM has crossed its limit
+Disk usage : 13%
+75
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Sun Jun 28 11:24:15 PM IST 2026
+Uptime: 2:14,
+---------------------
+CPU Usage: 3.3 %
+Warning : CPU has crossed its threshold limit
+RAM usage : 21.3333 %
+Warning : RAM has crossed its limit
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 10:38:07 PM IST 2026
+Uptime: 30
+---------------------
+CPU usage : 
+RAM usage : 16 %
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 10:38:38 PM IST 2026
+Uptime: 30
+---------------------
+CPU usage : CPU Usage: 0.1 %
+RAM usage : 16 %
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 10:39:44 PM IST 2026
+Uptime: 31
+---------------------
+CPU usage : 0.1 %
+RAM usage : 16 %
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 10:53:58 PM IST 2026
+Uptime: 46
+---------------------
+CPU usage : 3.2%
+%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 10:56:16 PM IST 2026
+Uptime: 48
+---------------------
+CPU usage : 4.5%
+16.6667%
+Disk usage : 13%%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 10:58:24 PM IST 2026
+Uptime: 50
+---------------------
+CPU usage : 0.1%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 11:11:11 PM IST 2026
+Uptime: 1:03,
+---------------------
+CPU usage : 2.8%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+Warning : CPU exceeded its threshold limit (80)
+Warning : RAM has excedded it's threshold limit (70)
+Warning : DISK has exceeded it's threshold limit (75)
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Mon Jun 29 11:12:43 PM IST 2026
+Uptime: 1:04,
+---------------------
+CPU usage : 4%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:13:27 PM IST 2026
+Uptime: 6
+---------------------
+CPU usage : 0.1%
+RAM usage : 15.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:16:13 PM IST 2026
+Uptime: 9
+---------------------
+CPU usage : 0.1%
+RAM usage : 15.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:41:01 PM IST 2026
+Uptime: 34
+---------------------
+CPU usage : 4.4%
+RAM usage : 17.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:42:44 PM IST 2026
+Uptime: 36
+---------------------
+CPU usage : 3.7%
+RAM usage : 18%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:43:13 PM IST 2026
+Uptime: 36
+---------------------
+CPU usage : 3.7%
+RAM usage : 18.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+Warning : CPU exceeded its threshold limit (0)
+Warning : RAM has excedded it's threshold limit (0)
+Warning : DISK has exceeded it's threshold limit (5)
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:43:58 PM IST 2026
+Uptime: 37
+---------------------
+CPU usage : 3.7%
+RAM usage : 17.3333%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:55:07 PM IST 2026
+Uptime: 48
+---------------------
+CPU usage : 4.3%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+
+Server status:Healthy
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 10:56:10 PM IST 2026
+Uptime: 49
+---------------------
+CPU usage : 3.1%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+Server status:Healthy
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 11:09:33 PM IST 2026
+Uptime: 1:02,
+---------------------
+CPU usage : 3.2%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+Server status:Healthy
+
+--------------------------
+Server health report
+--------------------------
+Hostname : Ishant
+Username : sai
+Date : Tue Jun 30 11:18:06 PM IST 2026
+Uptime: 1:11,
+---------------------
+CPU usage : 3.1%
+RAM usage : 16.6667%
+Disk usage : 13%
+----------------------
+Server IP: 192.168.29.74/24
+ssh service: inactive
+
+Server status:Healthy
+
