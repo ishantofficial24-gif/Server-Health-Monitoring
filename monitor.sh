@@ -113,4 +113,4 @@ main(){
 	fi
 
 }
-main | tee reports/server_report.txt | tee logs/server.log
+main | tee reports/server_report.txt | tee -a logs/server.log
